@@ -1,4 +1,3 @@
-# echino-sim
 Environment for simulating pleurocystitid robot using the new Dojo simulator package from RExLab at CMU. It allows fast and efficient contact rich simulation and provides full gradients for trajectory optimization, reinforcement learning, etc. 
 
 ## Dependencies
